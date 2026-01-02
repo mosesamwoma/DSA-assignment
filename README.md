@@ -1,26 +1,29 @@
-# Week Assignment – Moses Tumbo Amwoma
-**Course:** CT204 BDS
-**Registration Number:** CT204/119586/24  
+# LeetCode Assignment Solutions
+
+**Student:** Moses Tumbo Amwoma  
+**Course:** CT204 BDS  
+**Registration:** CT204/119586/24
 
 ---
 
-## 📌 Assignment Instructions
-- Log in to **LeetCode** and solve the problems listed below.  
-- Submit your solutions via **GitHub** **before the next class**.  
-- Ensure your code is clean, well-commented, and organized.
+## Problems Solved
+
+1. **[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)**  
+   Reverses integer digits with overflow handling.
+
+2. **[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)**  
+   Checks if an integer is a palindrome.
+
+3. **[912. Sort an Array](https://leetcode.com/problems/sort-an-array/)**  
+   Efficiently sorts an array in ascending order.
+
+4. **[2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)**  
+   Implements a food rating management system with update queries.
 
 ---
 
-## 📝 LeetCode Problems
+## 📂 Repository
 
-1. **7. Reverse Integer**  
-   Reverse the digits of a given integer while handling overflow.
+**GitHub:** [github.com/mosesamwoma/assignment](https://github.com/mosesamwoma/assignment.git)
 
-2. **9. Palindrome Number**  
-   Determine whether an integer reads the same backward as forward.
-
-3. **912. Sort an Array**  
-   Sort an array of integers in ascending order efficiently.
-
-4. **2353. Design a Food Rating System**  
-   Implement a system to manage and query food ratings with update functionality.
+All solutions are documented with clean, commented code.
